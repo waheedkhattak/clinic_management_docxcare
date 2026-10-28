@@ -1,0 +1,32 @@
+# Environment and Local Settings
+.env
+.env.backup
+.env.production
+.env.local
+
+# Operating System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor Directories
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Build and Dependencies (for future Laravel setup)
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# Temporary / Scratch Files
+.test
+*.tmp
+*.log
